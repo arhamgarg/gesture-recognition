@@ -1,4 +1,4 @@
-# Gesture Recognition
+# Virtual Sign Language Interpreter
 
 Scenario: Virtual Sign Language Interpreter
 
